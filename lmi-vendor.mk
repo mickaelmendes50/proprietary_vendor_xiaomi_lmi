@@ -603,6 +603,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lmi/proprietary/vendor/firmware/scope_on_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/scope_on_RTP.bin \
     vendor/xiaomi/lmi/proprietary/vendor/firmware/screenshot_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/screenshot_rtp.bin \
     vendor/xiaomi/lmi/proprietary/vendor/firmware/task_cleanall_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/task_cleanall_rtp.bin \
+    vendor/xiaomi/lmi/proprietary/vendor/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_VENDOR)/firmware/tfa98xx.cnt \
     vendor/xiaomi/lmi/proprietary/vendor/firmware/uninstall_animation_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/uninstall_animation_rtp.bin \
     vendor/xiaomi/lmi/proprietary/vendor/firmware/uninstall_dialog_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/uninstall_dialog_rtp.bin \
     vendor/xiaomi/lmi/proprietary/vendor/firmware/vehicle_buggy_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vehicle_buggy_RTP.bin \
@@ -764,6 +765,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lmi/proprietary/vendor/lib/rfsa/adsp/libsnpe_dsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsnpe_dsp_skel.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib/rfsa/adsp/libsnpe_dsp_v65_domains_v2_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsnpe_dsp_v65_domains_v2_skel.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib/rfsa/adsp/libsnpe_dsp_v66_domains_v2_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsnpe_dsp_v66_domains_v2_skel.so \
+    vendor/xiaomi/lmi/proprietary/vendor/lib/rfsa/adsp/libsns_device_mode_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsns_device_mode_skel.so \
+    vendor/xiaomi/lmi/proprietary/vendor/lib/rfsa/adsp/libsns_low_lat_stream_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libsns_low_lat_stream_skel.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib/rfsa/adsp/misound_karaoke_res.bin:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/misound_karaoke_res.bin \
     vendor/xiaomi/lmi/proprietary/vendor/lib/rfsa/adsp/misound_karaokemix_res.bin:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/misound_karaokemix_res.bin \
     vendor/xiaomi/lmi/proprietary/vendor/lib/rfsa/adsp/misound_res.bin:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/misound_res.bin \
