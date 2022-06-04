@@ -1440,7 +1440,6 @@ PRODUCT_PACKAGES += \
     QCC-TR-UI \
     TimeService \
     TrustZoneAccessService \
-    com.qualcomm.qti.gpudrivers.kona.api30 \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
     com.android.hotwordenrollment.common.util \
